@@ -9,6 +9,8 @@ microcontroller supports hardware i2c, then substitute "busio" for "bitbangio".
 
 #### Requirements:
 
+The driver was developed using Circuitpython 2.2.0
+
 This driver uses the "adafruit_bus_device.i2c_device" driver.
 
 #### Example:
